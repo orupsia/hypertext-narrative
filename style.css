@@ -1,0 +1,15 @@
+html, body {
+background-color:darkgreen;
+margin:0px;
+padding:0px
+}
+
+p {
+	border-radius: 5px;
+	background-color: snow;
+}
+
+h1 {
+	border: solid;
+	background-color:goldenrod;
+}
